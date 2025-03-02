@@ -3,8 +3,8 @@
 ## Project Overview
 The LinkedIn Job Market Analysis Dashboard provides insights into job postings across USA, Canada, and Africa, highlighting hiring trends, top recruiters, most in-demand job roles, and work model distributions. This project leverages Power BI and Python to analyze job postings and create a visually engaging dashboard.
 
-## Dasgboard Link:
-    Link:- https://app.powerbi.com/view?r=eyJrIjoiYzRmMDczYTUtMjg1ZC00ODljLWE3MWYtMzI3YjYyMDQ0NTMzIiwidCI6ImQ5OTRjYjA2LTljOTYtNGUxMC05YTQ2LTg4ZGM1OTEyNjc0ZCIsImMiOjZ9
+## Dashboard Link:
+Link:- https://app.powerbi.com/view?r=eyJrIjoiYzRmMDczYTUtMjg1ZC00ODljLWE3MWYtMzI3YjYyMDQ0NTMzIiwidCI6ImQ5OTRjYjA2LTljOTYtNGUxMC05YTQ2LTg4ZGM1OTEyNjc0ZCIsImMiOjZ9
 ## Key Insights
 
 - #### KPI's
